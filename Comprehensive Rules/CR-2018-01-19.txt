@@ -204,6 +204,8 @@ Credits
 
 100.6b Players can use the Magic Store & Event Locator at Wizards.com/Locator to find tournaments in their area.
 
+100.7. Certain promotional cards and cards in the Unglued, Unhinged, and Unstable sets are printed with a silver border. These cards are intended for casual play and may have features and text that arenï¿½t covered by these rules.
+
 101. The Magic Golden Rules
 
 101.1. Whenever a cardï¿½s text directly contradicts these rules, the card takes precedence. The card overrides only the rule that applies to that specific situation. The only exception is that a player can concede the game at any time (see rule 104.3a).
@@ -642,7 +644,7 @@ Example: ï¿½[This creature] canï¿½t blockï¿½ is an ability.
 
 112.6c An objectï¿½s ability that allows a player to pay an alternative cost rather than its mana cost functions in any zone in which its mana cost can be paid (which, in general, means it functions on the stack). An objectï¿½s ability that otherwise modifies what that particular object costs to cast functions on the stack.
 
-112.6d An objectï¿½s ability that restricts or modifies how that particular object can be played or cast functions in any zone from which it could be played or cast.
+112.6d An objectï¿½s ability that restricts or modifies how that particular object can be played or cast functions in any zone from which it could be played or cast and also on the stack. An objectï¿½s ability that grants it another ability that restricts or modifies how that particular object can be played or cast functions only on the stack.
 
 112.6e An objectï¿½s ability that restricts or modifies what zones that particular object can be played or cast from functions everywhere, even outside the game.
 
@@ -1045,7 +1047,7 @@ Example: A player casts Lightning Bolt, an instant that says ï¿½Lightning Bolt d
 201.3a If a player is instructed to choose a card name with certain characteristics, the player must choose the name of a card whose Oracle text matches those characteristics. (See rule 108.1.)
 Example: Dispossess reads, in part, ï¿½Choose an artifact card name.ï¿½ The player can choose the name of any artifact card thatï¿½s legal in the format of the current game. The player canï¿½t choose Island, even if an Island on the battlefield has been turned into artifact by some effect.
 
-201.3b If a player wants to choose the name of a split card, the player must choose the name of one of its halves, but not both. (See rule 708.) If a player is instructed to choose a card name with certain characteristics, use the only that halfï¿½s characteristics to determine if this name can be chosen.
+201.3b If a player wants to choose the name of a split card, the player must choose the name of one of its halves, but not both. (See rule 708.) If a player is instructed to choose a card name with certain characteristics, use only that halfï¿½s characteristics to determine if this name can be chosen.
 
 201.3c If a player wants to choose a flip cardï¿½s alternative name, the player may do so. (See rule 709.) If a player is instructed to choose a card name with certain characteristics, use the cardï¿½s characteristics as modified by its alternative characteristics to determine if this name can be chosen.
 
@@ -1166,7 +1168,7 @@ Example: When choosing a creature type, ï¿½Merfolkï¿½ or ï¿½Wizardï¿½ is accepta
 205.3i Lands have their own unique set of subtypes; these subtypes are called land types. The land types are Desert, Forest, Gate, Island, Lair, Locus, Mine, Mountain, Plains, Power-Plant, Swamp, Tower, and Urzaï¿½s.
      Of that list, Forest, Island, Mountain, Plains, and Swamp are the basic land types. See rule 305.6.
 
-205.3j Planeswalkers have their own unique set of subtypes; these subtypes are called planeswalker types. The planeswalker types are Ajani, Arlinn, Ashiok, Bolas, Chandra, Dack, Daretti, Domri, Dovin, Elspeth, Freyalise, Garruk, Gideon, Huatli, Jace, Karn, Kaya, Kiora, Koth, Liliana, Nahiri, Narset, Nissa, Nixilis, Ral, Saheeli, Samut, Sarkhan, Sorin, Tamiyo, Teferi, Tezzeret, Tibalt, Ugin, Venser, Vraska, and Xenagos.
+205.3j Planeswalkers have their own unique set of subtypes; these subtypes are called planeswalker types. The planeswalker types are Ajani, Angrath, Arlinn, Ashiok, Bolas, Chandra, Dack, Daretti, Domri, Dovin, Elspeth, Freyalise, Garruk, Gideon, Huatli, Jace, Karn, Kaya, Kiora, Koth, Liliana, Nahiri, Narset, Nissa, Nixilis, Ral, Saheeli, Samut, Sarkhan, Sorin, Tamiyo, Teferi, Tezzeret, Tibalt, Ugin, Venser, Vraska, and Xenagos.
      If a player controls two or more planeswalkers that share a planeswalker type, that player chooses one of them, and the rest are put into their ownersï¿½ graveyards. This ï¿½planeswalker uniqueness ruleï¿½ is a state-based action. See rule 704.
 
 205.3k Instants and sorceries share their lists of subtypes; these subtypes are called spell types. The spell types are Arcane and Trap.
@@ -1234,7 +1236,7 @@ Example: Lost Order of Jarkeld has power and toughness each equal to 1+*. It has
 
 208.2b The card may have a static ability that creates a replacement effect that sets the creatureï¿½s power and toughness to one of a number of specific values as it enters the battlefield or is turned face up. (See rule 614, ï¿½Replacement Effects.ï¿½) Such an ability is worded ï¿½As [this creature] enters the battlefield . . . ,ï¿½ ï¿½As [this creature] is turned face up . . . ,ï¿½ or ï¿½[This creature] enters the battlefield as . . .ï¿½ and lists two or more specific power and toughness values (and may also list additional characteristics). The characteristics chosen or determined with these effects affect the creatureï¿½s copiable values. (See rule 706.2.) While the card isnï¿½t on the battlefield, its power and toughness are each considered to be 0.
 
-208.3. A noncreature permanent has no power or toughness, even if itï¿½s a card with a power and toughness printed on it (such as a Vehicle).
+208.3. A noncreature permanent has no power or toughness, even if itï¿½s a card with a power and toughness printed on it (such as a Vehicle). A noncreature object not on the battlefield has power or toughness only if it has a power and toughness printed on it.
 
 208.3a If an effect would be created that affects the power and/or toughness of a noncreature permanent, that effect is created even though it doesnï¿½t do anything unless that permanent becomes a creature.
 Example: Veteran Motorist has the ability ï¿½Whenever Veteran Motorist crews a Vehicle, that Vehicle gets +1/+1 until end of turn,ï¿½ and itï¿½s tapped to pay the crew cost of a Vehicle. This triggered ability resolves while the Vehicle it crewed isnï¿½t yet a creature. The continuous effect is created and will apply to the Vehicle once it becomes a creature.
@@ -1688,7 +1690,7 @@ Example: Exquisite Archangel has an ability which reads ï¿½If you would lose the
 
 407.2. When playing for ante, each player puts one random card from his or her deck into the ante zone after determining which player goes first but before players draw any cards. Cards in the ante zone may be examined by any player at any time. At the end of the game, the winner becomes the owner of all the cards in the ante zone.
 
-407.3. A few cards have the text ï¿½Remove [this card] from your deck before playing if youï¿½re not playing for ante.ï¿½ These are the only cards that can add or remove cards from the ante zone or change a cardï¿½s owner.
+407.3. A few cards have the text ï¿½Remove [this card] from your deck before playing if youï¿½re not playing for ante.ï¿½ These are the only cards that can add or remove cards from the ante zone or change a cardï¿½s owner. When not playing for ante, players canï¿½t include these cards in their decks or sideboards, and these cards canï¿½t be brought into the game from outside the game.
 
 407.4. To ante an object is to put that object into the ante zone from whichever zone itï¿½s currently in. The owner of an object is the only person who can ante that object.
 
@@ -2059,6 +2061,8 @@ Example: You cast Altarï¿½s Reap, which costs {1}{B} and has an additional cost 
 601.3b If an effect allows a player to cast a spell with certain characteristics as though it had flash, that player may consider any choices to be made during that spellï¿½s proposal that may cause it to have those characteristics. If any such choices could cause it to match these characteristics, that player may begin to cast that spell.
 Example: An effect says that you may cast Aura spells as though they had flash, and you have a creature card with bestow in your hand. Because choosing the bestow abilityï¿½s alternative cost causes that spell to become an Aura spell, you may legally begin to cast that spell as though it had flash.
 
+601.3c If a spell would have flash only if certain conditions are met, its controller may begin to cast that spell as though it had flash if those conditions are met.
+
 601.4. Some spells specify that one of their controllerï¿½s opponents does something the controller would normally do while itï¿½s being cast, such as choose a mode or choose targets. In these cases, the opponent does so when the spellï¿½s controller normally would do so.
 
 601.4a If there is more than one opponent who could make such a choice, the spellï¿½s controller decides which of those opponents will make the choice.
@@ -2268,9 +2272,11 @@ Example: An enchantment reads, ï¿½Whenever a player taps a land for mana, that p
 
 607.1. An object may have two abilities printed on it such that one of them causes actions to be taken or objects or players to be affected and the other one directly refers to those actions, objects, or players. If so, these two abilities are linked: the second refers only to actions that were taken or objects or players that were affected by the first, and not by any other ability.
 
-607.1a An ability printed on an object within another ability that grants that ability to that object is still considered to be ï¿½printed onï¿½ that object for these purposes.
+607.1a An ability printed on an object within another ability that grants that ability to that object is considered to be ï¿½printed onï¿½ that object for these purposes.
 
-607.1b An ability printed on an object that fulfills both criteria described in rule 607.1 is linked to itself.
+607.1b An ability printed on either face of a double-faced card (see rule 711) is considered to be ï¿½printed onï¿½ that object for these purposes, regardless of which face is up.
+
+607.1c An ability printed on an object that fulfills both criteria described in rule 607.1 is linked to itself.
 
 607.2. There are different kinds of linked abilities.
 
@@ -3005,6 +3011,10 @@ Example: A player owns and controls Midnight Scavengers and a token thatï¿½s a c
 701.38b A permanent ï¿½exploresï¿½ after the process described in rule 701.38a is complete, even if some or all of those actions were impossible.
 
 701.38c If a permanent changes zones before an effect causes it to explore, its last known information is used to determine which object explored and who controlled it.
+
+701.39. Assemble
+
+701.39a Assemble is a keyword action in the Unstable set that puts Contraptions onto the battlefield. Outside of silver-bordered cards, only one card (Steamflogger Boss) refers to assembling a Contraption. Cards and mechanics from the Unstable set arenï¿½t included in these rules. See the Unstable FAQ for more information.
 
 702. Keyword Abilities
 
@@ -4015,6 +4025,16 @@ Example: Aether Storm is an enchantment with the ability ï¿½Creature spells canï
 702.129a Afflict is a triggered ability. ï¿½Afflict Nï¿½ means ï¿½Whenever this creature becomes blocked, defending player loses N life.ï¿½
 
 702.129b If a creature has multiple instances of afflict, each triggers separately.
+
+702.130. Ascend
+
+702.130a Ascend on an instant or sorcery spell represents a spell ability. It means ï¿½If you control ten or more permanents and you donï¿½t have the cityï¿½s blessing, you get the cityï¿½s blessing for the rest of the game.ï¿½
+
+702.130b Ascend on a permanent represents a static ability. It means ï¿½Any time you control ten or more permanents and you donï¿½t have the cityï¿½s blessing, you get the cityï¿½s blessing for the rest of the game.ï¿½
+
+702.130c The cityï¿½s blessing is a designation that has no rules meaning other than to act as a marker that other rules and effects can identify. Any number of players may have the cityï¿½s blessing at the same time.
+
+702.130d After a player gets the cityï¿½s blessing, continuous effects are reapplied before the game checks to see if the game state or preceding events have matched any trigger conditions.
 
 703. Turn-Based Actions
 
