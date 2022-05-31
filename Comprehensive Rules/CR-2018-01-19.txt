@@ -2061,7 +2061,7 @@ Example: You cast Altar�s Reap, which costs {1}{B} and has an additional cost 
 601.3b If an effect allows a player to cast a spell with certain characteristics as though it had flash, that player may consider any choices to be made during that spell�s proposal that may cause it to have those characteristics. If any such choices could cause it to match these characteristics, that player may begin to cast that spell.
 Example: An effect says that you may cast Aura spells as though they had flash, and you have a creature card with bestow in your hand. Because choosing the bestow ability�s alternative cost causes that spell to become an Aura spell, you may legally begin to cast that spell as though it had flash.
 
-601.3c If a spell would have flash only if certain conditions are met, its controller may begin to cast that spell as though it had flash if those conditions are met.
+601.3c If a spell would have flash only if certain conditions are met, its controller may begin to cast that spell if those conditions are met.
 
 601.4. Some spells specify that one of their controller�s opponents does something the controller would normally do while it�s being cast, such as choose a mode or choose targets. In these cases, the opponent does so when the spell�s controller normally would do so.
 
