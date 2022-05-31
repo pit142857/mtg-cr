@@ -3,7 +3,9 @@ Archives of MTG Comprehensive Rules.
 Dates in CR name files are slightly off:
 they correspond to the date when CRs were uploaded, not when they began to apply.
 
-## Missing CRs
+## Rebuilt CRs
+The following CRs were not available anywhere, so where rebuilt based on other CRs and on `diff` files availabled on `vensersjournal.com`.
+They may not be 100 % accurate.
 * 2018-06-08
 * 2018-04-27
 * 2018-01-19
